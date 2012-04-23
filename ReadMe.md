@@ -1,0 +1,1 @@
+Simple Watchdog App. Once started, will sit on the menubar, and make sure the user-specified app is running, relaunching it if necessary.
